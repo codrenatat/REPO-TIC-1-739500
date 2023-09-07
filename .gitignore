@@ -1,1 +1,4 @@
-/log_prueba.txt
+# Ignorar todos los archivos que terminen en ".log"
+*.log
+
+/modules/
